@@ -59,6 +59,7 @@
         case 'PUT':
             //actualizar la info 
             
+            
             break;
 
         case 'DELETE':
